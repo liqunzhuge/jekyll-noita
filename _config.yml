@@ -36,10 +36,10 @@ noita:
     right:
       - name: About
         url: /about/
-      - name: Guide
+      - name: Research
         url: /guide/
-      - name: Blog
+      - name: CV
         url: /blog/
-      - name: Repository
-        url: https://github.com/penibelst/jekyll-noita
-        class: small button
+      #- name: Repository
+       # url: https://github.com/penibelst/jekyll-noita
+       # class: small button
